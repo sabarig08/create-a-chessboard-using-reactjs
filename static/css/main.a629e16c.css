@@ -1,0 +1,2 @@
+body{margin-top:5%}table{border:solid #000;height:600px;margin:auto;width:700px}h1{color:brown;text-align:center}h1:hover,td:hover{transform:scale(1.1)}.chess-board{border-collapse:collapse;border-spacing:0}td:last-child{border-right:1px solid #211f1f}tr:last-child td{border-bottom:1px solid}td{font-size:32px;height:1.5em;line-height:5px;text-align:center;width:1.5em}.light{background:brown}.dark{background:#fff}
+/*# sourceMappingURL=main.a629e16c.css.map*/
