@@ -1,0 +1,49 @@
+body {
+    margin-top: 5%;
+}
+
+table {
+    border: solid black;
+    height: 600px;
+    width: 700px;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    color:brown;
+}
+
+td:hover,
+h1:hover {
+    transform: scale(1.1);
+}
+
+.chess-board {
+    border-spacing: 0px;
+    border-collapse: collapse;
+}
+
+td:last-child {
+    border-right: 1px solid #211f1f;
+}
+
+tr:last-child td {
+    border-bottom: 1px solid;
+}
+
+td {
+    width: 1.5em;
+    height: 1.5em;
+    text-align: center;
+    font-size: 32px;
+    line-height: 5px;
+
+}
+
+.light {
+    background:brown;
+}
+
+.dark {
+    background: white;
+}
